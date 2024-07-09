@@ -24,13 +24,25 @@ Li, Jiaming and Chen, Hao and Wang, Xianbo and Yang, Zhi-Xin, A Comprehensive Ge
 
 ### 1.2.	下载地址 Download address
 
-#### 1)	Baidu Netdisk
+#### 1)	Baidu Netdisk （Suggested for mainland China users）
 
 Link: https://pan.baidu.com/s/1FW9gfMm2esTg0EV_2XoATg?pwd=bk5a
 
 Password: bk5a
 
-#### 2)
+#### 2) NAS system of our group （Suggested for overseas users）
+
+Link: http://QuickConnect.to/Smart5001
+
+Account: GearEccDataset
+
+Password: Smart2024
+
+File Station -> GearEccDataset -> download
+
+#### 3) Mendely, a data library of Elsevier （Only two data files uploaded due to its limited space）
+
+Link: https://data.mendeley.com/datasets/ym6pk4889r/1
 
 # 2.	数据集描述 Dataset description
 
@@ -57,3 +69,14 @@ Take the file named N139_G1_E16_T3_S1200.mat as an example to demonstrate the ex
 Each data file contains 11 signals from different sensors, as shown in Fig. 2.
 
 ![image](https://github.com/LeeJMJM/GearEccDataset/assets/93640564/1dcd5f65-cd02-490a-8ba3-33aef43de172 "Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.")Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.
+
+# 3.	其他共享的信息 Other Info. shared here
+
+偏心齿轮机构的加工图纸，以及齿顶圆跳动的原始测量数据。请参考相关文件夹内的描述。
+
+The drawings of the eccentricity-simulating structure, and the raw the measurement data of the gear tip circle.
+Please refer to the discription in the corresponding folder.
+
+
+
+
