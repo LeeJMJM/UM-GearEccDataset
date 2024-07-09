@@ -6,7 +6,7 @@ A comprehensive gear eccentricity dataset with multiple fault severity levels: D
 Li, Jiaming and Chen, Hao and Wang, Xianbo and Yang, Zhi-Xin, A Comprehensive Gear Eccentricity Dataset with Multiple Fault Severity Levels: Description, Characteristics Analysis, and Fault Diagnosis Applications. Available at SSRN: https://ssrn.com/abstract=4822609 or http://dx.doi.org/10.2139/ssrn.4822609
 
 __________
-# 齿轮偏心故障数据集用户指南 User Guide for GearEccDataset
+# 齿轮偏心数据集用户指南 User Guide for GearEccDataset
 
 ## 1.	数据集总览 Dataset overview
 
