@@ -1,4 +1,4 @@
-# GearEcc-dataset
+# GearEccDataset
 A comprehensive gear eccentricity dataset with multiple fault severity levels: Description, characteristics analysis, and fault diagnosis applications
 
 **The paper is under the peer review process. You can find the preprint version at:**
