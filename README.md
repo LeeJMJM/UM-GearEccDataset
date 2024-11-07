@@ -1,10 +1,4 @@
 # UM-GearEccDataset
-A comprehensive gear eccentricity dataset with multiple fault severity levels: Description, characteristics analysis, and fault diagnosis applications
-
-**The paper is under the peer review process. You can find the preprint version at:**
-
-Li, Jiaming and Chen, Hao and Wang, Xianbo and Yang, Zhi-Xin, A Comprehensive Gear Eccentricity Dataset with Multiple Fault Severity Levels: Description, Characteristics Analysis, and Fault Diagnosis Applications. Available at SSRN: https://ssrn.com/abstract=4822609 or http://dx.doi.org/10.2139/ssrn.4822609
-
 __________
 # 齿轮偏心数据集用户指南 User Guide for UM-GearEccDataset
 
@@ -14,13 +8,15 @@ __________
 
 该齿轮偏心数据集UM-GearEccDataset由澳门大学科技学院SMART Group提供。该数据集可用于：1）数据驱动的故障诊断模型案例分析。2) 齿轮偏心动力学模型研究的实验验证。
 
-This gear eccentricity dataset, UM-GearEccDataset, is provided by SMART Group from Faculty of Science and Technology, University of Macau. It can be used for: 1) Case study of data-driven mothods. 2) Experimental verification for dynamical modeling of gear eccentricity.
+This gear eccentricity dataset, UM-GearEccDataset, is provided by the SMART Group from Faculty of Science and Technology, University of Macau. It can be used for: 1) Case study of data-driven mothods. 2) Experimental verification for dynamical modeling of gear eccentricity.
 
 使用该数据集请引用：
 
 To use this dataset, please cite:
 
-Li, Jiaming and Chen, Hao and Wang, Xianbo and Yang, Zhi-Xin, A Comprehensive Gear Eccentricity Dataset with Multiple Fault Severity Levels: Description, Characteristics Analysis, and Fault Diagnosis Applications. (*under review. To be updated*)
+J. Li, H. Chen, X.-B. Wang, and Z.-X. Yang, “A comprehensive gear eccentricity dataset with multiple fault severity levels: Description, characteristics analysis, and fault diagnosis applications,” _Mechanical Systems and Signal Processing_, vol. 224, p. 112068, 2025.
+
+Available at: https://doi.org/10.1016/j.ymssp.2024.112068
 
 ### 1.2.	下载地址 Download address
 
