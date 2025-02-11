@@ -48,6 +48,8 @@ Link: https://data.mendeley.com/datasets/ym6pk4889r/1
 
 Please refer to Section 2 of the cited paper.
 
+![2 sensor position](https://github.com/user-attachments/assets/9fb70628-5bd6-4362-a67e-b1859157c23b)Fig. 0 传感器布置. Sensor position.
+
 ## 2.2.	数据文件描述 Data file description
 
 该数据集共有4×4×11×2=352个v7.3版本的.mat数据文件。文件按照层级保存在不同文件夹里，如Fig. 1所示。
