@@ -76,5 +76,19 @@ The drawings of the eccentricity-simulating structure, and the raw the measureme
 Please refer to the discription in the corresponding folder.
 
 
+# 4.	勘误 Errata sheet
 
+## 4.1.	原文里 图. 4 中的错误 Errata in Fig. 4
 
+正确的版本已经提供在了这里的章节 2.1。
+
+The right version is provided in the Section 2.1 here.
+
+## 4.2.	原文里 表. 1 中的错误 Errata in Table 1
+
+NI 6234 -> NI 9234
+NI 6230 -> NI 9230
+
+Accordingly, the description in the main text:
+
+The DAQ modules 6234 and 6230 are installed on a cDAQ-9174 chassis. -> The DAQ modules 9234 and 9230 are installed on a cDAQ-9174 chassis.
