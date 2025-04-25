@@ -87,6 +87,7 @@ The right version is provided in the Section 2.1 here.
 ## 4.2.	原文里 表. 1 中的错误 Errata in Table 1
 
 NI 6234 -> NI 9234
+
 NI 6230 -> NI 9230
 
 Accordingly, the description in the main text:
