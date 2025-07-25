@@ -93,3 +93,12 @@ NI 6230 -> NI 9230
 Accordingly, the description in the main text:
 
 The DAQ modules 6234 and 6230 are installed on a cDAQ-9174 chassis. -> The DAQ modules 9234 and 9230 are installed on a cDAQ-9174 chassis.
+
+## 4.3.	原文里 式. 5 中的错误 Errata in equation 5
+
+${\rm Cosine\ distance} = 1-\frac{\sum_{i=1}^{n}x_iy_i}{\sqrt{\sum_{i=1}^{n}x_i^2}\sqrt{\sum_{i=1}^{n}x_i^2}}$
+
+->
+
+${\rm Cosine\ distance} = 1-\frac{\sum_{i=1}^{n}x_iy_i}{\sqrt{\sum_{i=1}^{n}x_i^2}\sqrt{\sum_{i=1}^{n}y_i^2}}$ 
+
