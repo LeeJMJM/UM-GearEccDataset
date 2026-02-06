@@ -102,3 +102,8 @@ ${\rm Cosine\ distance} = 1-\frac{\sum_{i=1}^{n}x_iy_i}{\sqrt{\sum_{i=1}^{n}x_i^
 
 ${\rm Cosine\ distance} = 1-\frac{\sum_{i=1}^{n}x_iy_i}{\sqrt{\sum_{i=1}^{n}x_i^2}\sqrt{\sum_{i=1}^{n}y_i^2}}$ 
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LeeJMJM/UM-GearEccDataset&type=date&legend=top-left)](https://www.star-history.com/#LeeJMJM/UM-GearEccDataset&type=date&legend=top-left)
+
