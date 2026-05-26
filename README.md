@@ -48,7 +48,8 @@ Link: https://data.mendeley.com/datasets/ym6pk4889r/1
 
 Please refer to Section 2 of the cited paper.
 
-![2 sensor position](https://github.com/user-attachments/assets/9fb70628-5bd6-4362-a67e-b1859157c23b)Fig. 0 传感器布置. Sensor position.
+![2 sensor position](https://github.com/user-attachments/assets/9fb70628-5bd6-4362-a67e-b1859157c23b)
+<br/>Fig. 0 传感器布置. Sensor position.
 
 ## 2.2.	数据文件描述 Data file description
 
@@ -56,7 +57,8 @@ Please refer to Section 2 of the cited paper.
 
 There are 4×4×11×2=352 data files (Version 7.3 MAT-files) in the dataset. They are saved hierarchically in different folders, as shown in Fig. 1.
 
-![image](https://github.com/LeeJMJM/GearEccDataset/assets/93640564/94920096-f871-418e-bb37-afb7746194ee "Fig. 1 文件保存层级. Hierarchy of the data files.")Fig. 1 文件保存层级. Hierarchy of the data files.
+![image](https://github.com/LeeJMJM/GearEccDataset/assets/93640564/94920096-f871-418e-bb37-afb7746194ee "Fig. 1 文件保存层级. Hierarchy of the data files.")
+<br/>Fig. 1 文件保存层级. Hierarchy of the data files.
 
 以N139_G1_E16_T3_S1200.mat为例说明数据文件根据实验变量的命名规则：N139说明文件序号为139；G1说明偏心齿轮无破齿；E16说明偏心程度为0.16 mm；T3说明传动系结构为T3；S1200说明驱动电机转速为1200 rpm。
 
@@ -66,7 +68,8 @@ Take the file named N139_G1_E16_T3_S1200.mat as an example to demonstrate the ex
 
 Each data file contains 11 signals from different sensors, as shown in Fig. 2.
 
-![image](https://github.com/LeeJMJM/GearEccDataset/assets/93640564/1dcd5f65-cd02-490a-8ba3-33aef43de172 "Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.")Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.
+![image](https://github.com/LeeJMJM/GearEccDataset/assets/93640564/1dcd5f65-cd02-490a-8ba3-33aef43de172 "Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.")
+<br/>Fig. 2 一个数据文件内的多传感器信号. Multi-source signals within a data file.
 
 # 3.	其他共享的信息 Other Info. shared here
 
