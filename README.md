@@ -108,5 +108,11 @@ ${\rm Cosine\ distance} = 1-\frac{\sum_{i=1}^{n}x_iy_i}{\sqrt{\sum_{i=1}^{n}x_i^
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LeeJMJM/UM-GearEccDataset&type=date&legend=top-left)](https://www.star-history.com/#LeeJMJM/UM-GearEccDataset&type=date&legend=top-left)
+<a href="https://www.star-history.com/?type=date&legend=top-left&repos=LeeJMJM%2FUM-GearEccDataset">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=LeeJMJM/UM-GearEccDataset&type=date&theme=dark&legend=top-left&sealed_token=_LGCn6f_ceHPEIhql0S9yqI-62znf-87SgALDiNQbFTa4MuE4-1KeH5EUVAbWFMYL36HxDaweN08RXBxOdZxjhuvloPLxCgkxGHN97lppd4N51hn3as0YeG0SPnWyY9Qh0DKlNpxkGd5CautOHxaaPDR7iyY85cdOIARqAfheRfH68N8dQH6AXsokCiQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=LeeJMJM/UM-GearEccDataset&type=date&legend=top-left&sealed_token=_LGCn6f_ceHPEIhql0S9yqI-62znf-87SgALDiNQbFTa4MuE4-1KeH5EUVAbWFMYL36HxDaweN08RXBxOdZxjhuvloPLxCgkxGHN97lppd4N51hn3as0YeG0SPnWyY9Qh0DKlNpxkGd5CautOHxaaPDR7iyY85cdOIARqAfheRfH68N8dQH6AXsokCiQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=LeeJMJM/UM-GearEccDataset&type=date&legend=top-left&sealed_token=_LGCn6f_ceHPEIhql0S9yqI-62znf-87SgALDiNQbFTa4MuE4-1KeH5EUVAbWFMYL36HxDaweN08RXBxOdZxjhuvloPLxCgkxGHN97lppd4N51hn3as0YeG0SPnWyY9Qh0DKlNpxkGd5CautOHxaaPDR7iyY85cdOIARqAfheRfH68N8dQH6AXsokCiQ" />
+ </picture>
+</a>
 
